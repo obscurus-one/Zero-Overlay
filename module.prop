@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
+id=overlaytest
+name=Signal Overlay
 version=v3.7
 versionCode=19
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+author=nothing
+description=Just a test!
+updateJson=nothing
